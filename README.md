@@ -29,6 +29,15 @@ Traditional platforms (Airbnb, Booking.com) operate on rigid legacy filters: cit
 - **Hyperlocal Geo-Intelligence:** African cities don't function by generic postal codes. X-OM maps **9 districts and 70+ wards** (e.g. knowing Hananasif is inside Kinondoni, Upanga borders Muhimbili National Hospital, Sinza balances nightlife with quiet residential pockets, and Kigamboni requires ferry/bridge logistics).
 - **Conversational Concierge Voice:** Rather than dumping cold database tables, X-OM's local AI speaks warmly in Swahili and English (*"Habari! Nimekupatia machaguo mazuri ya kulinganisha hapa:"*), presenting multiple live stays side-by-side with genuine tradeoff advice.
 
+### Real-Life Intention Archetypes
+
+| Purpose | Traveler's Natural Language Input | Hyperlocal AI Resolution |
+| :--- | :--- | :--- |
+| **🛍️ Commercial Trading** | *"Naja kufunga mzigo Kariakoo kesho asubuhi, nahitaji sehemu salama yenye stoo na wepesi wa usafiri alfajiri."* | Pins gated units along Ilala / Kisutu / Gerezani corridors with 5-minute walking access to wholesale depots, bypassing rush hour. |
+| **🏥 Healthcare & Recovery** | *"Tuna mgonjwa anakuja hospitali ya Muhimbili, nahitaji chumba cha chini kisicho na ngazi, chenye utulivu mkubwa na jiko."* | Isolates ground-floor units in quiet Upanga West cul-de-sacs with private kitchens and 3-minute hospital corridor access. |
+| **💻 Deep Work & Sprints** | *"Nahitaji chumba tulivu sana Kinondoni au Sinza chenye Wi-Fi ya kasi na umeme wa jenereta ikitokea TANESCO wamekata."* | Ranks stays with verified dual-backup LUKU generators and fiber speed tests in Kijitonyama / Mikocheni pockets. |
+| **🏖️ Coastal Escape** | *"Weekend getaway ya kupumzika na upepo wa bahari, karibu na mikahawa ya samaki na mtulivu wa usiku."* | Matches verified beachfront stays across Kigamboni South Coast and Zanzibar Paje/Stone Town. |
+
 ---
 
 ## 2. Closing the Offline Loop with Textify Africa
