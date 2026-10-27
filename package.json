@@ -1,0 +1,27 @@
+{
+  "name": "xom-textify-integration",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "X-OM & Textify Africa telecom messaging worker and zero-loss escrow notification engine",
+  "main": "supabase/functions/send-textify-message/index.ts",
+  "scripts": {
+    "test": "node --test supabase/functions/send-textify-message/contract.test.mjs"
+  },
+  "keywords": [
+    "textify",
+    "sms",
+    "tanzania",
+    "telecom",
+    "supabase",
+    "edge-functions",
+    "escrow",
+    "fintech",
+    "proptech"
+  ],
+  "author": "X-OM (https://xomai.tech)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makazi-app/xom-textify-integration"
+  }
+}
